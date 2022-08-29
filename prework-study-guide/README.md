@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a project to better understand the foundations software development including HTML, CSS, JavaScript, Visual Studio and Github by creating a webpage study guide to store notes and showcase the knowledge learned in prework. 
+This is a project to better understand the foundations software development including HTML, CSS, JavaScript, Visual Studio and Github by creating a webpage study guide to store notes and showcase the knowledge learned in the pre-coursework modules.
 
 ## Installation
 
